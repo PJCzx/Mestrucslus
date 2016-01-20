@@ -1,0 +1,14 @@
+{
+  "name": "mestrucslus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mestrucslus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "textract": "^1.2.1"
+  }
+}
